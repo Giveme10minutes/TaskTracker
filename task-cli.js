@@ -30,3 +30,5 @@ function saveTasks(tasks) {
     console.log(`保存任务失败：${error.message}`);
   }
 }
+
+function nextId(tasks) {}
